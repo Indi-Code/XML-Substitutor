@@ -1,6 +1,5 @@
 # XML Substitutor
-
-
+[Picture](https://github.com/Indi-Code/XML-Substitutor/blob/master/example.PNG)
 ## Easy to run program to substitute stuff in your XML/HTML/ETC..
 ### Why would I want to use this?
 An example is putting a header on every page on a website.
